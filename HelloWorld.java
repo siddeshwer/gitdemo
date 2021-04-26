@@ -1,5 +1,6 @@
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, Welcome To the Publicis Sapient Family!"); 
+        int a=2,b=2,c;
+		System.out.println(c=a+b); 
     }
 }
